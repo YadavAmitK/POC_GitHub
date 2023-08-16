@@ -2,7 +2,7 @@ package com.hpe;
 
 import java.util.Scanner;
 /*
-java code
+java code.......
 */
 
 public class HardCodeCredential {
@@ -11,8 +11,8 @@ public class HardCodeCredential {
 		// TODO Auto-generated method stub
 		String Username;
         String Password;
-        Password = "admin";
-        Username = "admin";
+        Password = "admin3";
+        Username = "admin3";
         Scanner sc1 = new Scanner(System.in);       
         System.out.println("Enter Username : ");      
         String username = sc1.next();      
