@@ -11,8 +11,8 @@ public class HardCodeCredential {
 		// TODO Auto-generated method stub
 	    String Username;
         String Password;
-        Password = "admin3";
-        Username = "admin3";
+        Password = "admin4";
+        Username = "admin4";
         Scanner sc1 = new Scanner(System.in);       
         System.out.println("Enter Username : ");      
         String username = sc1.next();      
