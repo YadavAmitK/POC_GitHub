@@ -2,7 +2,7 @@ package com.hpe;
 
 import java.util.Scanner;
 /*
-java code.......
+java code.........
 */
 
 public class HardCodeCredential {
