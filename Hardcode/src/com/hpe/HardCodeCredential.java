@@ -9,10 +9,10 @@ public class HardCodeCredential {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String Username;
+	String Username;
         String Password;
-        Password = "admin";
-        Username = "admin";
+        Password = "admin2";
+        Username = "admin2";
         Scanner sc1 = new Scanner(System.in);       
         System.out.println("Enter Username : ");      
         String username = sc1.next();      
