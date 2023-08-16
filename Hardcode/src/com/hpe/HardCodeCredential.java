@@ -9,7 +9,7 @@ public class HardCodeCredential {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String Username;
+	    String Username;
         String Password;
         Password = "admin3";
         Username = "admin3";
